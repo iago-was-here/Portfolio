@@ -1,5 +1,5 @@
 <script setup>
-import Card from '@/components/card.vue';
+import Card from '@/components/Card.vue';
 </script>
 <template>
     <h1 class="p-4 text-center"><b>{{ title }}</b></h1>

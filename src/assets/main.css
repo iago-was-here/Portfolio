@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "FinalF";
+  src: url("@/assets/fonts/finalf.ttf");
+}
+* {
+  font-family: 'FinalF';
+}
