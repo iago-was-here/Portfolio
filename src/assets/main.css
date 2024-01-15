@@ -3,5 +3,9 @@
   src: url("@/assets/fonts/finalf.ttf");
 }
 * {
-  font-family: 'FinalF';
+  font-family: "FinalF";
+}
+
+.main-title {
+  padding-top: 2%;
 }

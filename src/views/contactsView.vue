@@ -1,3 +1,4 @@
 <template>
-    <h1>Contatos</h1>
+    <h1 class="main-title">Contatos</h1>
+    <hr>
 </template>

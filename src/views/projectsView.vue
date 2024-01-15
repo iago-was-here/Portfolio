@@ -1,5 +1,6 @@
 <template>
-  <h1>Projetos</h1>
+  <h1 class="main-title">Projetos</h1>
+  <hr />
   <div class="repos">
     <div class="repo-info" v-for="repo in userGitRepos" :key="repo.id">
       <Card>
